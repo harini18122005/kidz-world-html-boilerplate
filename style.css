@@ -58,7 +58,7 @@ nav img {
 header {
   height: 500px;
   width: 100%;
-  background-image: url("./kidz-world-html-boilerplate/assets/kw-background.png");
+  background-image: url("/kidz-world-html-boilerplate/assets/kw-background.png");
   background-size: 100% 100%;
   color: white;
 }
